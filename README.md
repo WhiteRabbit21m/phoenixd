@@ -40,12 +40,12 @@ Both domains should be configured in your DNS settings before running the script
 
 2. Make the script executable:
    ```
-   chmod +x setup_script.sh
+   chmod +x phoenixd-docker.sh
    ```
 
 3. Run the script with sudo privileges:
    ```
-   sudo ./setup_script.sh
+   sudo ./phoenixd-docker.sh
    ```
 
 4. Follow the prompts to enter your domain names, email address, and agree to the Let's Encrypt Terms of Service.
